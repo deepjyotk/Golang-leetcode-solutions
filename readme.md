@@ -54,6 +54,6 @@ Please follow these steps to contribute:
 
 ## Contact
 
-Your Name - [@deepjyot_kapoor](https://twitter.com/deepjyot_kapoor) - email
+Deepjyot Kapoor - [@deepjyot_kapoor](https://twitter.com/deepjyot_kapoor) - email
 
 Project Link: [https://github.com/deepjyotk/Golang-leetcode-solutions](https://github.com/deepjyotk/Golang-leetcode-solutions)
